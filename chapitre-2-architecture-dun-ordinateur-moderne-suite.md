@@ -110,6 +110,14 @@ L’interface SATA offre un maximum théorique de 6 Gbit/s. Dans la pratique, le
 Le SSD SATA constitue une excellente mise à niveau pour un ordinateur un peu ancien.
 {% endhint %}
 
+### 1.4. SSD M.2 SATA
+
+Un SSD M.2 SATA est une petite carte électronique installée directement dans un connecteur M.2 de la carte mère. Il utilise le protocole SATA et offre donc des performances semblables à celles d’un SSD SATA de 2,5 pouces.
+
+<figure><img src=".gitbook/assets/image (41).png" alt="" width="375"><figcaption><p>SSD M.2 SATA</p></figcaption></figure>
+
+Son principal avantage est qu’il ne nécessite aucun câble. Cependant, il n’est pas plus rapide qu’un SSD SATA traditionnel.
+
 ### 1.4. Le SSD NVMe
 
 Un **SSD NVMe** utilise généralement l’interface PCI Express pour communiquer directement avec le processeur ou le chipset. Il offre une latence plus faible et une vitesse supérieure à celle du SATA. NVMe est un protocole conçu spécialement pour les SSD modernes.&#x20;
