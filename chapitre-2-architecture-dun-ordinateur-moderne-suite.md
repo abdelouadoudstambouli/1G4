@@ -1,6 +1,5 @@
 ---
 description: Stockage, cartes d’extension, connecteurs et périphériques
-hidden: true
 ---
 
 # Chapitre 2 - Architecture d'un ordinateur moderne (Suite)
