@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Chapitre 3 - Assemblage, UEFI, POST, maintenance et dépannage
 
 ## Objectifs d'apprentissage
