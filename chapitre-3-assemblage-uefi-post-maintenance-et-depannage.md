@@ -336,21 +336,21 @@ Le dépannage doit être logique, reproductible et sécuritaire. Changer plusieu
 
 <figure><img src=".gitbook/assets/image (47).png" alt="" width="563"><figcaption><p>Procédure de dépannage</p></figcaption></figure>
 
-•     Identifier le problème:  Décrire précisément ce qui ne fonctionne pas, depuis quand et dans quelles conditions.
+• **Identifier le problème**:  Décrire précisément ce qui ne fonctionne pas, depuis quand et dans quelles conditions.
 
-•     Recueillir les informations: Noter les messages, les codes, les bips, les voyants, les journaux et les changements récents.
+• **Recueillir les informations**: Noter les messages, les codes, les bips, les voyants, les journaux et les changements récents.
 
-•     Reproduire le problème: Déterminer s'il est constant ou intermittent et quelles actions le déclenchent.
+• **Reproduire le problème**: Déterminer s'il est constant ou intermittent et quelles actions le déclenchent.
 
-•     Établir une cause probable: Commencer par les causes simples et fréquentes qui correspondent aux indices.
+• **Établir des causes probables**: Commencer par les causes simples et fréquentes qui correspondent aux indices.
 
-•     Tester une seule hypothèse: Faire une modification contrôlée, puis observer le résultat.
+• **Tester une seule hypothèse**: Faire une modification contrôlée, puis observer le résultat.
 
-•     Appliquer la solution: Utiliser une procédure officielle ou une intervention réversible lorsque possible.
+• **Appliquer la solution**: Utiliser une procédure officielle ou une intervention réversible lorsque possible.
 
-•     Vérifier complètement: Confirmer que le problème initial est résolu et que les fonctions associées sont normales.
+• **Vérifier complètement**: Confirmer que le problème initial est résolu et que les fonctions associées sont normales.
 
-•     Documenter: Noter le symptôme, la cause, les tests, la solution, les pièces et les réglages modifiés.
+• **Documenter**: Noter le symptôme, la cause, les tests, la solution, les pièces et les réglages modifiés.
 
 ### 4.5. Problèmes courants et solutions
 
