@@ -50,25 +50,25 @@ Deux composants peuvent parfois être installés ensemble sans pour autant être
 
 L’ordre d’installation peut changer selon le boîtier et les composants utilisés. L’important est de travailler dans un ordre logique et de garder les connecteurs faciles d’accès.
 
-•     Préparer le boîtier. Retirer les panneaux, vérifier les entretoises et installer la plaque arrière si la carte mère en utilise une séparée.
+• **Préparer le boîtier**: Retirer les panneaux, vérifier les entretoises et installer la plaque arrière si la carte mère en utilise une séparée.
 
-•     Installer le processeur. Aligner les repères du processeur et du socket. Déposer le processeur sans forcer, puis verrouiller le mécanisme.
+• **Installer le processeur.** Aligner les repères du processeur et du socket. Déposer le processeur sans forcer, puis verrouiller le mécanisme.
 
-•     Installer la RAM et le SSD M.2. Utiliser les emplacements recommandés par le manuel et s'assurer que les loquets sont fermés.
+• **Installer la RAM et le SSD M.2**. Utiliser les emplacements recommandés par le manuel et s'assurer que les loquets sont fermés.
 
-•     Installer le refroidisseur. Appliquer la bonne quantité de pâte thermique si nécessaire, serrer progressivement et brancher le ventilateur sur CPU\_FAN.
+• **Installer le refroidisseur**. Appliquer la bonne quantité de pâte thermique si nécessaire, serrer progressivement et brancher le ventilateur sur CPU\_FAN.
 
-•     Fixer la carte mère. L'aligner sur les entretoises et serrer les vis sans excès.
+• **Fixer la carte mère**. L'aligner sur les entretoises et serrer les vis sans excès.
 
-•     Installer l'alimentation. Orienter son ventilateur selon les ouvertures du boîtier et préparer les câbles nécessaires.
+• **Installer l'alimentation**. Orienter son ventilateur selon les ouvertures du boîtier et préparer les câbles nécessaires.
 
-•     Installer les unités de stockage et les cartes d'extension. Fixer les composants et verrouiller les cartes PCIe.
+• **Installer les unités de stockage et les cartes d'extension**. Fixer les composants et verrouiller les cartes PCIe.
 
-•     Brancher les câbles. Relier l'alimentation, les données, les ventilateurs, les ports du boîtier et les boutons du panneau avant.
+• **Brancher les câbles**. Relier l'alimentation, les données, les ventilateurs, les ports du boîtier et les boutons du panneau avant.
 
-•     Organiser les câbles. Éviter qu'ils touchent les ventilateurs ou bloquent la circulation d'air.
+• **Organiser les câbles**. Éviter qu'ils touchent les ventilateurs ou bloquent la circulation d'air.
 
-•     Faire une inspection finale. Vérifier les vis, les connecteurs, le refroidisseur et l'absence d'objet libre dans le boîtier.
+•  **Faire une inspection finale**. Vérifier les vis, les connecteurs, le refroidisseur et l'absence d'objet libre dans le boîtier.
 
 ### 1.4. Connecteurs à reconnaître&#x20;
 
