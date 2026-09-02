@@ -334,7 +334,7 @@ Les informations SMART peuvent être consultées :
 
 Le dépannage doit être logique, reproductible et sécuritaire. Changer plusieurs réglages au hasard peut masquer la cause et créer de nouveaux problèmes.
 
-<figure><img src=".gitbook/assets/image (47).png" alt="" width="563"><figcaption><p>Procédure de dépannage</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (48).png" alt="" width="563"><figcaption><p>Procedure de dépannage</p></figcaption></figure>
 
 • **Identifier le problème**:  Décrire précisément ce qui ne fonctionne pas, depuis quand et dans quelles conditions.
 
