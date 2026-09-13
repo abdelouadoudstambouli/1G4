@@ -441,6 +441,14 @@ Démarrer la machine virtuelle. La VM apparaît maintenant dans la bibliothèque
 
 <figure><img src=".gitbook/assets/image (72).png" alt="" width="563"><figcaption></figcaption></figure>
 
+
+
+Démarrer sur le lecteur CD/DVD virtuel. Pour lancer l’installation de Windows à partir de l’image ISO, utilisez les flèches du clavier pour sélectionner : **EFI VMware Virtual SATA CDROM Drive.**
+
+Appuyez ensuite sur **Entrée**. La machine virtuelle démarrera alors sur l’image ISO de Windows montée dans le lecteur CD/DVD virtuel, ce qui lancera le programme d’installation de Windows.
+
+<figure><img src=".gitbook/assets/image (131).png" alt="" width="521"><figcaption></figcaption></figure>
+
 Choisir la langue d'installation. Sélectionnez Français (Canada) pour la langue, ainsi que le format régional correspondant, puis cliquez sur Suivant
 
 <figure><img src=".gitbook/assets/image (73).png" alt="" width="530"><figcaption></figcaption></figure>
@@ -691,7 +699,7 @@ Choisir la configuration professionnelle du clone. Sélectionnez Configurer pour
 
 <figure><img src=".gitbook/assets/image (129).png" alt="" width="432"><figcaption></figcaption></figure>
 
-Créer un utilisateur et définir un mot de passe pour cet utilisateur.&#x20;
+Refaites ensuite les mêmes étapes de création d’un utilisateur et créez votre propre compte utilisateur local.
 
 Vérifier le clone terminé. Une fois l'OOBE terminé, vérifiez que le bureau s'affiche, que le nouveau nom est appliqué et que Windows fonctionne correctement. Le clone est maintenant prêt à être utilisé sans modifier la VM modèle.
 
