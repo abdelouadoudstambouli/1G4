@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Chapitre 4 - Virtualisation et création de machine virtuelle.
 
 ## Objectifs d'apprentissage&#x20;
