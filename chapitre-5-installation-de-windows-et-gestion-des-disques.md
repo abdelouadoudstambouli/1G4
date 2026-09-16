@@ -1,9 +1,8 @@
 ---
 description: Introduction au systèmes d'exploitation Windows, Gestion de disque
-hidden: true
 ---
 
-# Chapitre 5 - Installation de Windows et gestion de disque
+# Chapitre 5 - Installation de Windows et gestion des disques
 
 ## Objectifs d'apprentissage&#x20;
 
