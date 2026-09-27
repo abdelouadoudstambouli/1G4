@@ -621,21 +621,7 @@ La ligne de commande facilite la répétition des opérations, mais elle ne gara
 
 Chaque outil répond à un besoin précis. Ce tableau rassemble les principaux repères du cours.
 
-| **Besoin**                               | **Outil ou emplacement**                                 |
-| ---------------------------------------- | -------------------------------------------------------- |
-| Retrouver un document et son chemin      | Explorateur de fichiers.                                 |
-| Connaître la RAM et l’édition de Windows | Paramètres > Système > Informations système ou À propos. |
-| Examiner la configuration détaillée      | Informations système, avec msinfo32.                     |
-| Repérer une application très active      | Gestionnaire des tâches.                                 |
-| Créer un compte standard                 | Paramètres > Comptes > Autres utilisateurs.              |
-| Gérer les groupes locaux                 | Gestion de l’ordinateur, sur une édition compatible.     |
-| Contrôler les permissions d’un dossier   | Propriétés > Sécurité.                                   |
-| Rendre un dossier accessible par SMB     | Propriétés > Partage > Partage avancé.                   |
-| Donner une lettre à un partage           | Ce PC > Connecter un lecteur réseau.                     |
-| Examiner les traces d’un problème        | Observateur d’événements.                                |
-| Lancer une action à un moment prévu      | Planificateur de tâches.                                 |
-| Retirer une application                  | Paramètres > Applications > Applications installées.     |
-| Gérer des applications par commandes     | WinGet dans un terminal.                                 |
+<table data-header-hidden data-search="false"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Besoin</strong></td><td><strong>Outil ou emplacement</strong></td></tr><tr><td>Retrouver un document et son chemin</td><td>Explorateur de fichiers.</td></tr><tr><td>Connaître la RAM et l’édition de Windows</td><td>Paramètres > Système > Informations système ou À propos.</td></tr><tr><td>Examiner la configuration détaillée</td><td>Informations système, avec msinfo32.</td></tr><tr><td>Repérer une application très active</td><td>Gestionnaire des tâches.</td></tr><tr><td>Créer un compte standard</td><td>Paramètres > Comptes > Autres utilisateurs.</td></tr><tr><td>Gérer les groupes locaux</td><td>Gestion de l’ordinateur, sur une édition compatible.</td></tr><tr><td>Contrôler les permissions d’un dossier</td><td>Propriétés > Sécurité.</td></tr><tr><td>Rendre un dossier accessible par SMB</td><td>Propriétés > Partage > Partage avancé.</td></tr><tr><td>Donner une lettre à un partage</td><td>Ce PC > Connecter un lecteur réseau.</td></tr><tr><td>Examiner les traces d’un problème</td><td>Observateur d’événements.</td></tr><tr><td>Lancer une action à un moment prévu</td><td>Planificateur de tâches.</td></tr><tr><td>Retirer une application</td><td>Paramètres > Applications > Applications installées.</td></tr><tr><td>Gérer des applications par commandes</td><td>WinGet dans un terminal.</td></tr></tbody></table>
 
 ### Les distinctions à retenir
 
