@@ -33,6 +33,8 @@ Le menu Démarrer sert à chercher et à ouvrir des applications. Vous pouvez au
 
 Un clic sur une icône épinglée ouvre l’application ou ramène sa fenêtre au premier plan. Une application peut avoir plusieurs fenêtres. À l’inverse, plusieurs onglets d’un navigateur peuvent se trouver dans une seule fenêtre.
 
+<figure><img src=".gitbook/assets/image (132).png" alt=""><figcaption><p>Les éléments du Bureau permettent de lancer des applications et de retrouver les fenêtres ouvertes.</p></figcaption></figure>
+
 #### Fichier application et raccourci
 
 Une application est un logiciel qui accomplit une tâche : rédiger, naviguer sur Internet, lire une image ou gérer des fichiers. Un fichier contient des données, par exemple le texte d’un travail ou une photo. Un raccourci est un lien vers un autre élément.
@@ -75,6 +77,8 @@ Une lettre de lecteur ne représente pas nécessairement un disque physique dist
 
 Pour afficher le chemin sous forme de texte, cliquez dans la barre d’adresse. Vous pouvez le copier pour le transmettre à quelqu’un. Deux fichiers portant le même nom peuvent se trouver à des endroits différents : leur chemin permet de les distinguer.
 
+<figure><img src=".gitbook/assets/image (133).png" alt=""><figcaption><p>Le chemin indique l’emplacement du fichier dans l’arborescence.</p></figcaption></figure>
+
 #### Les emplacements courants
 
 <table data-header-hidden data-search="false"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Emplacement</strong></td><td><strong>Ce que l’on y trouve généralement</strong></td></tr><tr><td>C:\Windows</td><td>Les fichiers nécessaires au fonctionnement de Windows.</td></tr><tr><td>C:\Program Files</td><td>De nombreuses applications installées pour le poste.</td></tr><tr><td>C:\Program Files (x86)</td><td>De nombreuses applications 32 bits sur un Windows x64.</td></tr><tr><td>C:\Users</td><td>Les dossiers de profils des utilisateurs, parfois affichés sous le nom Utilisateurs.</td></tr><tr><td>Documents et Images</td><td>Des emplacements destinés aux documents personnels et aux images.</td></tr><tr><td>Téléchargements</td><td>Les fichiers téléchargés, dont les programmes d’installation.</td></tr><tr><td>OneDrive</td><td>Des fichiers pouvant être synchronisés avec le service en ligne, selon la configuration.</td></tr></tbody></table>
@@ -94,6 +98,8 @@ Dans rapport.txt, l’extension est .txt. Elle aide Windows à choisir l’appli
 Changer l’extension ne convertit pas le fichier. Renommer une image .jpg en .pdf ne crée pas un document PDF. Pour changer réellement le format, il faut utiliser une fonction d’exportation ou de conversion adaptée.&#x20;
 
 Afficher les extensions évite aussi certaines erreurs. Le fichier facture.pdf.exe est un exécutable dont le nom contient « .pdf ». Son apparence ou son nom ne suffit pas à établir qu’il s’agit d’une facture.
+
+<figure><img src=".gitbook/assets/image (134).png" alt=""><figcaption><p>L’extension aide à reconnaître le type de fichier avant de l’ouvrir</p></figcaption></figure>
 
 #### Copier déplacer renommer et supprimer
 
@@ -117,6 +123,8 @@ Ouvrez Paramètres > Système > Informations système, parfois nommé À propos.
 
 L’édition indique une gamme de fonctionnalités. La version situe Windows dans son évolution. Le numéro de build est un repère plus précis. Deux ordinateurs peuvent utiliser Windows 11 tout en ayant une édition ou une version différente.
 
+<figure><img src=".gitbook/assets/image (135).png" alt=""><figcaption><p>Les caractéristiques du poste aident à vérifier la compatibilité et à préparer un diagnostic.</p></figcaption></figure>
+
 #### Aller plus loin avec Informations système
 
 Cherchez Informations système dans Démarrer, ou faites Windows + R, tapez msinfo32, puis validez. Cet outil présente des renseignements plus détaillés sur le matériel et l’environnement logiciel. <sup>\[3]</sup>
@@ -124,6 +132,8 @@ Cherchez Informations système dans Démarrer, ou faites Windows + R, tapez msin
 Dans Résumé système, repérez le fabricant, le modèle, le processeur, la mémoire et le mode BIOS. Une indication UEFI concerne la manière dont le micrologiciel et Windows démarrent le système. Il n’est pas nécessaire de modifier ce réglage pour le consulter.
 
 Pour connaître l’espace libre, ouvrez Ce PC dans l’Explorateur ou `Paramètres > Système > Stockage.` Pour afficher rapidement la version de Windows, vous pouvez aussi lancer winver depuis la fenêtre Exécuter.
+
+<figure><img src=".gitbook/assets/image (136).png" alt=""><figcaption><p>Informations système donne une vue détaillée de la configuration matérielle et logicielle.</p></figcaption></figure>
 
 ### Utiliser le Gestionnaire des tâches
 
@@ -144,6 +154,8 @@ Dans Processus, observez les applications et les activités en arrière-plan. Cl
 
 Un processeur à 100 % pendant quelques secondes n’est pas forcément en panne. L’installation d’une application ou le traitement d’une vidéo peut le solliciter fortement. On s’intéresse surtout à une utilisation persistante qui correspond au ralentissement observé.
 
+<figure><img src=".gitbook/assets/image (137).png" alt=""><figcaption><p>Le tri permet de repérer les applications qui utilisent le plus une ressource.</p></figcaption></figure>
+
 #### Fermer une application bloquée
 
 Essayez d’abord de fermer l’application normalement. Si elle ne répond plus, sélectionnez-la dans le Gestionnaire des tâches et choisissez Fin de tâche. Les modifications non enregistrées peuvent être perdues.
@@ -156,11 +168,17 @@ La rubrique Performances présente les graphiques du processeur, de la mémoire,
 
 Sur la page du disque, 100 % de temps d’activité signifie que le disque est très occupé. Cela ne veut pas dire que sa capacité de stockage est pleine. Pour connaître l’espace libre, retournez dans Ce PC ou dans les paramètres de stockage.
 
+<figure><img src=".gitbook/assets/image (138).png" alt=""><figcaption><p>La mémoire utilisée </p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (139).png" alt=""><figcaption><p> L'activité du disque décrivent le travail en cours</p></figcaption></figure>
+
 #### Les applications au démarrage
 
-Dans Applications de démarrage, vous pouvez empêcher certaines applications de se lancer à l’ouverture de session. Désactiver ce lancement ne désinstalle pas l’application : elle reste disponible dans Démarrer. <sup>\[4]</sup>
+Dans Applications de démarrage, vous pouvez empêcher certaines applications de se lancer à l’ouverture de session. Désactiver ce lancement ne désinstalle pas l’application : elle reste disponible dans Démarrer.&#x20;
 
 Un logiciel de messagerie que l’on utilise rarement n’a peut-être pas besoin de s’ouvrir à chaque connexion. En revanche, on ne désactive pas les composants de sécurité ou les outils gérés par l’établissement sans en connaître le rôle.
+
+<figure><img src=".gitbook/assets/image (140).png" alt=""><figcaption><p>Désactiver le démarrage automatique laisse l’application installée.</p></figcaption></figure>
 
 ## Comptes locaux et sécurité des accès
 
@@ -203,6 +221,8 @@ Pour une démonstration dans les Paramètres :&#x20;
 
 6\. Ouvrez une première session avec ce compte afin de créer son profil et de vérifier la connexion.
 
+<figure><img src=".gitbook/assets/image (141).png" alt=""><figcaption><p>Un compte administrateur permet de travailler en disposant de tous les pouvoirs sur le poste.</p></figcaption></figure>
+
 #### Pourquoi utiliser des groupes
 
 Un groupe rassemble plusieurs comptes auxquels on veut attribuer les mêmes accès. Si dix employés doivent modifier un dossier, il est plus simple d’accorder l’autorisation à un groupe que de gérer dix autorisations séparées.
@@ -222,6 +242,8 @@ Sur Windows Pro, Éducation ou Entreprise, faites un clic droit sur Démarrer, p
 5. Après une modification de groupe, fermez puis rouvrez la session du compte concerné avant de refaire les tests d’accès.
 
 Sur Windows Famille, l’absence de cette console ne signifie pas que les comptes locaux n’existent pas.&#x20;
+
+<figure><img src=".gitbook/assets/image (142).png" alt=""><figcaption><p>Les groupes permettent d’attribuer les mêmes autorisations à plusieurs comptes.</p></figcaption></figure>
 
 **Désactiver ou supprimer**. Un compte désactivé ne peut plus être utilisé pour ouvrir une session, mais son identité reste présente. La suppression retire le compte ; selon l’outil employé, elle peut aussi supprimer ses données locales. Avant de supprimer un compte, vérifiez les fichiers à conserver. Recréer ensuite le même nom ne recrée pas la même identité de sécurité.
 
@@ -243,6 +265,8 @@ Même avec un compte administrateur, les applications courantes ne s’exécuten
 
 Avant d’approuver une demande, vérifiez le nom du programme, son éditeur et l’action qui l’a provoquée. Si la demande apparaît sans raison claire, annulez et cherchez son origine. L’UAC ne vérifie pas à votre place que le logiciel est utile ou sans danger.
 
+<figure><img src=".gitbook/assets/image (143).png" alt=""><figcaption><p>L’UAC demande une autorisation avant une opération nécessitant des privilèges élevés.</p></figcaption></figure>
+
 ### Les autorisations sur les fichiers et les dossiers
 
 #### Ce que Windows contrôle
@@ -261,6 +285,8 @@ Ouvrez les Propriétés d’un dossier, puis l’onglet Sécurité. La partie su
 
 Le droit de supprimer un fichier peut dépendre de ses permissions et de celles de son dossier parent. Pour comprendre un résultat inattendu, il faut donc parfois regarder les deux niveaux.
 
+<figure><img src=".gitbook/assets/image (144).png" alt=""><figcaption><p>Les permissions déterminent les actions permises sur le dossier</p></figcaption></figure>
+
 #### Les permissions héritées
 
 Un fichier ou un sous-dossier peut recevoir des permissions du dossier qui le contient. C’est l’héritage. Il évite de configurer chaque fichier séparément. Une permission ajoutée directement sur l’élément est une permission explicite.&#x20;
@@ -268,6 +294,8 @@ Un fichier ou un sous-dossier peut recevoir des permissions du dossier qui le co
 Par exemple, si le dossier Equipe transmet le droit de lecture à ses sous-dossiers et à ses fichiers, un nouveau document peut recevoir ce droit automatiquement. Dans `Sécurité > Avancé`, regardez les colonnes Hérité de et S’applique à.
 
 Désactiver l’héritage demande un choix : convertir les permissions héritées en permissions explicites, ou les retirer. Retirer toutes les entrées sans les examiner peut supprimer des accès nécessaires.&#x20;
+
+<figure><img src=".gitbook/assets/image (145).png" alt=""><figcaption><p>L’héritage transmet des permissions depuis le dossier parent.</p></figcaption></figure>
 
 #### Les droits obtenus par plusieurs groupes
 
@@ -324,6 +352,8 @@ Lors d’un accès réseau, les permissions du partage et les permissions NTFS d
 
 Par exemple, Samir peut avoir le droit de modifier un document lorsqu’il travaille directement sur POSTE01, mais seulement le droit de le lire depuis un autre poste. Cela peut arriver si ses permissions NTFS permettent la modification, alors que ses permissions de partage permettent uniquement la lecture.
 
+<figure><img src=".gitbook/assets/image (146).png" alt=""><figcaption><p>Les permissions du partage s’ajoutent aux permissions NTFS pour contrôler l’accès par le réseau.</p></figcaption></figure>
+
 #### Les conditions nécessaires pour accéder au dossier
 
 L’ordinateur qui héberge les fichiers doit être allumé et joignable sur le réseau. Le partage de fichiers doit être autorisé et le pare-feu doit laisser passer les communications nécessaires. Le pare-feu est le composant qui filtre les communications entrantes et sortantes du poste.
@@ -347,6 +377,8 @@ Cette association s’appelle le mappage. Elle fait apparaître le dossier dans 
 Le mappage ne copie pas les fichiers sur le poste et ne crée pas un nouveau disque physique. Il ne donne pas non plus de droits supplémentaires : une personne limitée à la lecture reste limitée à la lecture, même si le partage porte maintenant la lettre Z:.
 
 La fenêtre Connecter un lecteur réseau réunit la lettre choisie et le chemin du dossier. L’option de reconnexion permet à Windows de tenter de retrouver ce lecteur à la prochaine ouverture de session. Une autre option permet d’utiliser un compte différent pour accéder au partage.
+
+<figure><img src=".gitbook/assets/image (147).png" alt=""><figcaption><p>Comment connecter un lecteur réseau</p></figcaption></figure>
 
 #### La disponibilité du lecteur réseau
 
@@ -385,6 +417,8 @@ Les journaux ne constituent pas un enregistrement de tous les gestes de l’util
 
 L’Observateur présente les journaux dans une arborescence à gauche. Au centre se trouve la liste des événements du journal sélectionné. La description de l’événement choisi apparaît dans un volet ou dans une fenêtre de détails.
 
+<figure><img src=".gitbook/assets/image (148).png" alt=""><figcaption><p>L’Observateur d’événements rassemble les traces enregistrées par Windows et ses composants.</p></figcaption></figure>
+
 #### Les renseignements contenus dans un événement
 
 Un événement se comprend à partir de plusieurs renseignements. Son numéro est utile, mais il ne suffit pas à expliquer ce qui s’est produit.
@@ -401,11 +435,15 @@ Le niveau Information correspond souvent à une opération normale. Un Avertisse
 
 Deux sources peuvent utiliser le même identifiant pour des événements différents. La source, le numéro et la description se lisent donc ensemble. Une erreur ancienne ou isolée n’explique pas nécessairement le problème observé aujourd’hui.
 
+<figure><img src=".gitbook/assets/image (149).png" alt=""><figcaption><p>La description et la source permettent de comprendre le sens d’un événement</p></figcaption></figure>
+
 #### Le filtrage des événements
 
 Un journal peut contenir des milliers d’entrées. Le filtrage limite l’affichage aux événements qui correspondent à certains critères, comme une période, un niveau ou une source. Les autres événements restent dans le journal : ils sont simplement masqués par le filtre.
 
 Si une application s’est fermée vers 10 h 15, les événements enregistrés autour de cette heure sont plus intéressants que ceux de la veille. Une erreur provenant de cette application constitue une piste. Des événements de niveau Information peuvent aussi aider à comprendre ce qui l’a précédée.
+
+<figure><img src=".gitbook/assets/image (150).png" alt=""><figcaption><p>Un filtre réduit le nombre d’événements affichés sans effacer le contenu du journal.</p></figcaption></figure>
 
 #### Ce que les journaux permettent de conclure
 
@@ -435,6 +473,8 @@ Une tâche planifiée est un ensemble de réglages enregistrés. Le Planificateu
 
 Un déclencheur peut être une heure, le démarrage de Windows ou l’ouverture d’une session. Il peut être ponctuel ou répétitif. Une tâche prévue une seule fois et une tâche quotidienne n’auront donc pas le même calendrier.
 
+<figure><img src=".gitbook/assets/image (151).png" alt=""><figcaption><p>Le déclencheur indique à quel moment Windows doit lancer la tâche.</p></figcaption></figure>
+
 #### Le programme et ses arguments
 
 L’action précise ce que Windows doit exécuter. Dans une action de type Démarrer un programme, le champ Programme/script désigne le logiciel. Un script est un fichier contenant des instructions à exécuter automatiquement.
@@ -442,6 +482,8 @@ L’action précise ce que Windows doit exécuter. Dans une action de type Déma
 Les arguments donnent des renseignements supplémentaires au programme, comme le fichier à ouvrir ou une option à utiliser. Le programme et les arguments n’ont donc pas le même rôle.
 
 Par exemple, une tâche appelée RappelCours pourrait ouvrir un document dans le Bloc-notes. Le programme serait le Bloc-notes et l’argument serait le chemin du document rappel.txt. Une tâche qui lance le Bloc-notes sans lui transmettre ce chemin peut ouvrir l’application sans ouvrir le document prévu.
+
+<figure><img src=".gitbook/assets/image (152).png" alt=""><figcaption><p>Le programme indique quel logiciel lancer et les arguments précisent ce qu’il doit utiliser.</p></figcaption></figure>
 
 #### Le compte et les conditions de fonctionnement
 
@@ -460,6 +502,8 @@ La bibliothèque du Planificateur rassemble les tâches enregistrées. Elle pré
 Un résultat indiquant une réussite signifie que l’exécution s’est terminée sans erreur signalée. Il reste à distinguer ce résultat technique de l’effet attendu : un programme peut s’être lancé correctement sans avoir traité le bon fichier. L’historique et le résultat produit se complètent.
 
 Une tâche désactivée conserve ses réglages, mais ne se déclenche plus. Une tâche supprimée disparaît du Planificateur. Windows et les logiciels possèdent leurs propres tâches de maintenance ; leur nom et leur rôle permettent de les distinguer des tâches ajoutées par un utilisateur.
+
+<figure><img src=".gitbook/assets/image (153).png" alt=""><figcaption><p>Les renseignements du Planificateur et le résultat visible aident à comprendre ce que la tâche a fait.</p></figcaption></figure>
 
 ## Installation et désinstallation des applications
 
