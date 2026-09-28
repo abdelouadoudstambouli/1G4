@@ -1,6 +1,5 @@
 ---
 description: Windows 11 • Interface graphique
-hidden: true
 ---
 
 # Chapitre 6 - Gestion et configuration de Windows
