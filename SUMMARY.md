@@ -7,3 +7,4 @@
 * [Chapitre 4 - Virtualisation et création de machine virtuelle.](chapitre-4-virtualisation-et-creation-de-machine-virtuelle..md)
 * [Chapitre 5 - Installation de Windows et gestion des disques](chapitre-5-installation-de-windows-et-gestion-des-disques.md)
 * [Chapitre 6 - Gestion et configuration de Windows](chapitre-6-gestion-et-configuration-de-windows.md)
+* [Chapitre 7 - Les outils en ligne de commande sous Windows](chapitre-7-les-outils-en-ligne-de-commande-sous-windows.md)
