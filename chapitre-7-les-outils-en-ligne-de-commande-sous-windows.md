@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Chapitre 7 - Les outils en ligne de commande sous Windows
 
 ## Objectifs d'apprentissage&#x20;
