@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Chapitre 8 - Sécurité du poste Windows
 
 ## Objectifs d'apprentissage
