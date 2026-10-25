@@ -4,7 +4,7 @@ hidden: true
 
 # Chapitre 10 - Linux en ligne de commande
 
-## Objectifs d'apprenstissage&#x20;
+## Objectifs d'apprentissage
 
 * Comprendre le fonctionnement du terminal Linux et utiliser les commandes avec leurs options et arguments.
 * Naviguer dans l’arborescence Linux et manipuler les fichiers et les dossiers à l’aide de commandes.
