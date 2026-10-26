@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Chapitre 10 - Linux en ligne de commande
 
 ## Objectifs d'apprentissage
