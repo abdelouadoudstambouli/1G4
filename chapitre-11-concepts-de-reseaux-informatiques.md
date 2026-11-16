@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Chapitre 11 -Concepts de réseaux informatiques
 
 ## Objectifs d’apprentissage :&#x20;
