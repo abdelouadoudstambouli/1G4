@@ -176,16 +176,7 @@ Sur une prise à contacts autodénudants, l’outil enfonce le conducteur isolé
 
 Les conventions T568A et T568B indiquent la disposition des paires sur les huit broches. Elles ont des performances équivalentes lorsqu’elles sont correctement appliquées. Seules les positions des paires verte et orange changent.
 
-| Broche | T568A           | T568B           |
-| ------ | --------------- | --------------- |
-| 1      | Blanc et vert   | Blanc et orange |
-| 2      | Vert            | Orange          |
-| 3      | Blanc et orange | Blanc et vert   |
-| 4      | Bleu            | Bleu            |
-| 5      | Blanc et bleu   | Blanc et bleu   |
-| 6      | Orange          | Vert            |
-| 7      | Blanc et brun   | Blanc et brun   |
-| 8      | Brun            | Brun            |
+<table data-header-hidden data-search="false"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Broche</td><td>T568A</td><td>T568B</td></tr><tr><td>1</td><td>Blanc et vert</td><td>Blanc et orange</td></tr><tr><td>2</td><td>Vert</td><td>Orange</td></tr><tr><td>3</td><td>Blanc et orange</td><td>Blanc et vert</td></tr><tr><td>4</td><td>Bleu</td><td>Bleu</td></tr><tr><td>5</td><td>Blanc et bleu</td><td>Blanc et bleu</td></tr><tr><td>6</td><td>Orange</td><td>Vert</td></tr><tr><td>7</td><td>Blanc et brun</td><td>Blanc et brun</td></tr><tr><td>8</td><td>Brun</td><td>Brun</td></tr></tbody></table>
 
 Pour lire une fiche mâle, placez les contacts dorés face à vous, la languette derrière et le câble vers le bas. Les broches se lisent de 1 à 8, de gauche à droite. Sur une prise murale, suivez le repérage imprimé par le fabricant, car la disposition des contacts arrière peut être différente.
 
