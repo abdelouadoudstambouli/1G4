@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Chapitre 12 - Mise en application des concepts du réseau
 
 ## Objectifs d’apprentissage :&#x20;
